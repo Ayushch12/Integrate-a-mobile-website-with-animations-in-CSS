@@ -1,0 +1,89 @@
+body {
+ 
+  margin: 0 auto;
+}
+header {
+ 
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 10px gray;
+  background-color: #fff;
+  z-index: 999;
+}
+header nav {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 0 5%;
+  box-sizing: border-box;
+}
+header nav > a:nth-child(2) {
+  display: none;
+}
+main.homepage,
+section {
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+}
+section.location{
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  order: 1;
+}
+section.presentation,
+section.working {
+  width: 50%;
+  min-height: 300px;
+  padding: 5%;
+}
+section.presentation {
+  order: 3;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #fff;
+  height: 420px;
+}
+section.working {
+  order: 2;
+}
+section.working > div:hover {
+  transform: scale(1.01);
+}
+section.restaurant {
+  width: 100%;
+  padding: 2% 5%;
+  order: 4;
+  justify-content: space-between;
+}
+section.restaurant h2 {
+  width: 100%;
+}
+section.restaurant a {
+  margin: 2% 0;
+  width: 45%;
+  transition: all 0.2s;
+}
+section.restaurant a:hover {
+  transform: scale(1.01);
+}
+main.menu {
+  position: relative;
+}
+main.menu::before {
+  top: 0;
+
+}
+
+main.menu section {
+  box-sizing: border-box;
+  margin: 0 auto;
+  width: 90%;
+}
+
+

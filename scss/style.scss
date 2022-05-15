@@ -1,0 +1,26 @@
+/* STYLE GENERAL
+================================================== */
+
+/* VARIABLES */
+@import './utils/variables';
+
+/* GENERALITES */
+@import './base/general';
+
+/* KEY-FRAMES */
+@import './base/animation';
+
+/* BOUTONS */
+@import './components/buttons';
+
+/* FOOTER */
+@import './layouts/footer';
+
+/* LOAGING SPINNER */ 
+@import './layouts/loading';
+
+/* HOME */
+@import './pages/main_home';
+
+/* MENUS */
+@import './pages/main_menu';
