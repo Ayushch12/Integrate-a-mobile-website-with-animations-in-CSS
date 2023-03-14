@@ -5,8 +5,11 @@ users to compose their own menu and reduce their waiting time in the
 restaurants because their menu is prepared in advance. No more wasting time looking at the map!
 
 Test site link:
+<img width="1276" alt="Screenshot 2023-03-14 at 14 34 22" src="https://user-images.githubusercontent.com/96380226/225025098-330e0737-925a-45aa-b611-5a610a55caad.png">
+<img width="1280" alt="Screenshot 2023-03-14 at 14 34 56" src="https://user-images.githubusercontent.com/96380226/225025154-f829aeed-c4cc-4ba8-a9fa-a33f750d08ec.png">
+<img width="583" alt="Screenshot 2023-03-14 at 14 35 25" src="https://user-images.githubusercontent.com/96380226/225025233-b914c3a3-350e-4f75-9ee0-44b248a7a04a.png">
 
-https://github.com/Ayushch12?tab=repositories
+https://subtle-vacherin-4bc9fc.netlify.app
 
 Font :
 
